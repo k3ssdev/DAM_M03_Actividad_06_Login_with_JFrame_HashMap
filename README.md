@@ -22,7 +22,7 @@ El botón de login comprueba que el usuario existe en el archivo con el nombre y
 El programa utiliza la serialización para guardar los datos de los empleados en un archivo, excepto el atributo que guarda la clave.
 
 ## Autor
-* **Alberto Pérez** 
+**Alberto Pérez** 
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md] para más detalles
