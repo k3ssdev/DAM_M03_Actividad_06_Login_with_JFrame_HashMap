@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Alberto Pérez del Río
+ * @author Alberto Pérez
  */
 class Empleado implements Serializable {
 

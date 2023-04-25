@@ -15,7 +15,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Alberto Perez del Rio
+ * @author Alberto Perez
  */
 public class VentanaLogin extends javax.swing.JFrame {
 

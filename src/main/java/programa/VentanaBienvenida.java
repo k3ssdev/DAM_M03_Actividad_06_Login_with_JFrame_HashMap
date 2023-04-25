@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author alber
+ * @author Alberto Perez
  */
 public class VentanaBienvenida extends javax.swing.JDialog {
 

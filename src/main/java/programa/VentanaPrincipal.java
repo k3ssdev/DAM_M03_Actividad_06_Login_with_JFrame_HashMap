@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author Alberto Pérez del Río
+ * @author Alberto Pérez
  */
 public class VentanaPrincipal {
 
